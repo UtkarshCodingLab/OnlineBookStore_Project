@@ -1,0 +1,894 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2926F1-EF4B-4739-A3B5-8A67962104A3}|Ecom.Utility\\Ecom.Utility.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecom.utility\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A2926F1-EF4B-4739-A3B5-8A67962104A3}|Ecom.Utility\\Ecom.Utility.csproj|solutionrelative:ecom.utility\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecomwebapp\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|solutionrelative:ecomwebapp\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecomwebapp\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|solutionrelative:ecomwebapp\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecomwebapp\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|solutionrelative:ecomwebapp\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecomwebapp\\areas\\admin\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|solutionrelative:ecomwebapp\\areas\\admin\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecomwebapp\\areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|solutionrelative:ecomwebapp\\areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecomwebapp\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|solutionrelative:ecomwebapp\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecomwebapp\\areas\\admin\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|solutionrelative:ecomwebapp\\areas\\admin\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecomwebapp\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|solutionrelative:ecomwebapp\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecomwebapp\\areas\\admin\\views\\product\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|solutionrelative:ecomwebapp\\areas\\admin\\views\\product\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecomwebapp\\areas\\customer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|solutionrelative:ecomwebapp\\areas\\customer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecomwebapp\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|solutionrelative:ecomwebapp\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecomwebapp\\areas\\customer\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|solutionrelative:ecomwebapp\\areas\\customer\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecomwebapp\\areas\\customer\\views\\cart\\orderconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|solutionrelative:ecomwebapp\\areas\\customer\\views\\cart\\orderconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecomwebapp\\areas\\customer\\views\\cart\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|solutionrelative:ecomwebapp\\areas\\customer\\views\\cart\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecomwebapp\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|solutionrelative:ecomwebapp\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecomwebapp\\areas\\customer\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|solutionrelative:ecomwebapp\\areas\\customer\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecomwebapp\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|solutionrelative:ecomwebapp\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecomwebapp\\areas\\customer\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|solutionrelative:ecomwebapp\\areas\\customer\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecomwebapp\\areas\\identity\\pages\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|solutionrelative:ecomwebapp\\areas\\identity\\pages\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecomwebapp\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|solutionrelative:ecomwebapp\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecomwebapp\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|solutionrelative:ecomwebapp\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecomwebapp\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|solutionrelative:ecomwebapp\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecomwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|solutionrelative:ecomwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecomwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|solutionrelative:ecomwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecomwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|solutionrelative:ecomwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecomwebapp\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|solutionrelative:ecomwebapp\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecomwebapp\\areas\\identity\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|solutionrelative:ecomwebapp\\areas\\identity\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2926F1-EF4B-4739-A3B5-8A67962104A3}|Ecom.Utility\\Ecom.Utility.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecom.utility\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A2926F1-EF4B-4739-A3B5-8A67962104A3}|Ecom.Utility\\Ecom.Utility.csproj|solutionrelative:ecom.utility\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0F54E9-8E04-4E54-818B-F89DF6AAC9AF}|Ecom.Models\\Ecom.Models.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecom.models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF0F54E9-8E04-4E54-818B-F89DF6AAC9AF}|Ecom.Models\\Ecom.Models.csproj|solutionrelative:ecom.models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E5E4F-8CA5-41A5-8AA1-ABEBE02F2272}|Ecom.DataAccess\\Ecom.DataAccess.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecom.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647E5E4F-8CA5-41A5-8AA1-ABEBE02F2272}|Ecom.DataAccess\\Ecom.DataAccess.csproj|solutionrelative:ecom.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E5E4F-8CA5-41A5-8AA1-ABEBE02F2272}|Ecom.DataAccess\\Ecom.DataAccess.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecom.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647E5E4F-8CA5-41A5-8AA1-ABEBE02F2272}|Ecom.DataAccess\\Ecom.DataAccess.csproj|solutionrelative:ecom.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E5E4F-8CA5-41A5-8AA1-ABEBE02F2272}|Ecom.DataAccess\\Ecom.DataAccess.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecom.dataaccess\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647E5E4F-8CA5-41A5-8AA1-ABEBE02F2272}|Ecom.DataAccess\\Ecom.DataAccess.csproj|solutionrelative:ecom.dataaccess\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E5E4F-8CA5-41A5-8AA1-ABEBE02F2272}|Ecom.DataAccess\\Ecom.DataAccess.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecom.dataaccess\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647E5E4F-8CA5-41A5-8AA1-ABEBE02F2272}|Ecom.DataAccess\\Ecom.DataAccess.csproj|solutionrelative:ecom.dataaccess\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E5E4F-8CA5-41A5-8AA1-ABEBE02F2272}|Ecom.DataAccess\\Ecom.DataAccess.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecom.dataaccess\\repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647E5E4F-8CA5-41A5-8AA1-ABEBE02F2272}|Ecom.DataAccess\\Ecom.DataAccess.csproj|solutionrelative:ecom.dataaccess\\repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E5E4F-8CA5-41A5-8AA1-ABEBE02F2272}|Ecom.DataAccess\\Ecom.DataAccess.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecom.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647E5E4F-8CA5-41A5-8AA1-ABEBE02F2272}|Ecom.DataAccess\\Ecom.DataAccess.csproj|solutionrelative:ecom.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0F54E9-8E04-4E54-818B-F89DF6AAC9AF}|Ecom.Models\\Ecom.Models.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecom.models\\orderheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF0F54E9-8E04-4E54-818B-F89DF6AAC9AF}|Ecom.Models\\Ecom.Models.csproj|solutionrelative:ecom.models\\orderheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E5E4F-8CA5-41A5-8AA1-ABEBE02F2272}|Ecom.DataAccess\\Ecom.DataAccess.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecom.dataaccess\\repository\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647E5E4F-8CA5-41A5-8AA1-ABEBE02F2272}|Ecom.DataAccess\\Ecom.DataAccess.csproj|solutionrelative:ecom.dataaccess\\repository\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E5E4F-8CA5-41A5-8AA1-ABEBE02F2272}|Ecom.DataAccess\\Ecom.DataAccess.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecom.dataaccess\\repository\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647E5E4F-8CA5-41A5-8AA1-ABEBE02F2272}|Ecom.DataAccess\\Ecom.DataAccess.csproj|solutionrelative:ecom.dataaccess\\repository\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E5E4F-8CA5-41A5-8AA1-ABEBE02F2272}|Ecom.DataAccess\\Ecom.DataAccess.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecom.dataaccess\\repository\\applicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647E5E4F-8CA5-41A5-8AA1-ABEBE02F2272}|Ecom.DataAccess\\Ecom.DataAccess.csproj|solutionrelative:ecom.dataaccess\\repository\\applicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0F54E9-8E04-4E54-818B-F89DF6AAC9AF}|Ecom.Models\\Ecom.Models.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecom.models\\viewmodels\\shoppingcartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF0F54E9-8E04-4E54-818B-F89DF6AAC9AF}|Ecom.Models\\Ecom.Models.csproj|solutionrelative:ecom.models\\viewmodels\\shoppingcartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0F54E9-8E04-4E54-818B-F89DF6AAC9AF}|Ecom.Models\\Ecom.Models.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecom.models\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF0F54E9-8E04-4E54-818B-F89DF6AAC9AF}|Ecom.Models\\Ecom.Models.csproj|solutionrelative:ecom.models\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecomwebapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|solutionrelative:ecomwebapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecomwebapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|solutionrelative:ecomwebapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecomwebapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|solutionrelative:ecomwebapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecomwebapp\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|solutionrelative:ecomwebapp\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecomwebapp\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|solutionrelative:ecomwebapp\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E5E4F-8CA5-41A5-8AA1-ABEBE02F2272}|Ecom.DataAccess\\Ecom.DataAccess.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecom.dataaccess\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647E5E4F-8CA5-41A5-8AA1-ABEBE02F2272}|Ecom.DataAccess\\Ecom.DataAccess.csproj|solutionrelative:ecom.dataaccess\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E5E4F-8CA5-41A5-8AA1-ABEBE02F2272}|Ecom.DataAccess\\Ecom.DataAccess.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecom.dataaccess\\repository\\irepository\\ishoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647E5E4F-8CA5-41A5-8AA1-ABEBE02F2272}|Ecom.DataAccess\\Ecom.DataAccess.csproj|solutionrelative:ecom.dataaccess\\repository\\irepository\\ishoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E5E4F-8CA5-41A5-8AA1-ABEBE02F2272}|Ecom.DataAccess\\Ecom.DataAccess.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecom.dataaccess\\repository\\irepository\\iapplicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647E5E4F-8CA5-41A5-8AA1-ABEBE02F2272}|Ecom.DataAccess\\Ecom.DataAccess.csproj|solutionrelative:ecom.dataaccess\\repository\\irepository\\iapplicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E5E4F-8CA5-41A5-8AA1-ABEBE02F2272}|Ecom.DataAccess\\Ecom.DataAccess.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecom.dataaccess\\repository\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647E5E4F-8CA5-41A5-8AA1-ABEBE02F2272}|Ecom.DataAccess\\Ecom.DataAccess.csproj|solutionrelative:ecom.dataaccess\\repository\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0F54E9-8E04-4E54-818B-F89DF6AAC9AF}|Ecom.Models\\Ecom.Models.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecom.models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF0F54E9-8E04-4E54-818B-F89DF6AAC9AF}|Ecom.Models\\Ecom.Models.csproj|solutionrelative:ecom.models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom\\ecomwebapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D20362E7-7655-49C4-BE98-5E6E57E3AF3B}|EComWebApp\\EComWebApp.csproj|solutionrelative:ecomwebapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EComWebApp\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "EComWebApp\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T02:09:40.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EComWebApp\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "EComWebApp\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T02:09:13.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "EComWebApp\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "EComWebApp\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T06:33:08.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "EComWebApp\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "EComWebApp\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T06:32:23.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "EComWebApp\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "EComWebApp\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T03:56:52.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "EComWebApp\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "EComWebApp\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T07:15:46.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\Ecom.Utility\\Constants.cs",
+              "RelativeDocumentMoniker": "Ecom.Utility\\Constants.cs",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\Ecom.Utility\\Constants.cs",
+              "RelativeToolTip": "Ecom.Utility\\Constants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T03:22:04.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "EComWebApp\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "EComWebApp\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T02:09:05.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Upsert.cshtml",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "RelativeDocumentMoniker": "EComWebApp\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "RelativeToolTip": "EComWebApp\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T02:08:58.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Areas\\Customer\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "EComWebApp\\Areas\\Customer\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Areas\\Customer\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "EComWebApp\\Areas\\Customer\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T02:08:30.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Areas\\Customer\\Views\\Cart\\OrderConfirmation.cshtml",
+              "RelativeDocumentMoniker": "EComWebApp\\Areas\\Customer\\Views\\Cart\\OrderConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Areas\\Customer\\Views\\Cart\\OrderConfirmation.cshtml",
+              "RelativeToolTip": "EComWebApp\\Areas\\Customer\\Views\\Cart\\OrderConfirmation.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T02:08:27.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EComWebApp\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "EComWebApp\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T08:51:20.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Summary.cshtml",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Areas\\Customer\\Views\\Cart\\Summary.cshtml",
+              "RelativeDocumentMoniker": "EComWebApp\\Areas\\Customer\\Views\\Cart\\Summary.cshtml",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Areas\\Customer\\Views\\Cart\\Summary.cshtml",
+              "RelativeToolTip": "EComWebApp\\Areas\\Customer\\Views\\Cart\\Summary.cshtml",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T02:08:19.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "EComWebApp\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "EComWebApp\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T02:08:16.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EComWebApp\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EComWebApp\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAIwEEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T05:59:19.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Areas\\Customer\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "EComWebApp\\Areas\\Customer\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Areas\\Customer\\Controllers\\CartController.cs",
+              "RelativeToolTip": "EComWebApp\\Areas\\Customer\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAAwKIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T04:13:22.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "EComWebApp\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "EComWebApp\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T02:08:14.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Areas\\Customer\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "EComWebApp\\Areas\\Customer\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Areas\\Customer\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "EComWebApp\\Areas\\Customer\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T02:08:02.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "EComWebApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "EComWebApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T02:07:35.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "EComWebApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "EComWebApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T02:07:16.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "EComWebApp\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "EComWebApp\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T06:29:17.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "EComWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Program.cs",
+              "RelativeToolTip": "EComWebApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T15:19:26.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EComWebApp\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EComWebApp\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T03:56:17.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "EComWebApp\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeToolTip": "EComWebApp\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T06:29:23.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Areas\\Identity\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "EComWebApp\\Areas\\Identity\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Areas\\Identity\\Pages\\Error.cshtml",
+              "RelativeToolTip": "EComWebApp\\Areas\\Identity\\Pages\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T06:29:43.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "EComWebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\appsettings.json",
+              "RelativeToolTip": "EComWebApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-01T15:19:36.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EComWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EComWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T05:18:53.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "EComWebApp\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "EComWebApp\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-22T06:33:31.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\Ecom.Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Ecom.Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\Ecom.Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Ecom.Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T06:28:26.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\Ecom.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "RelativeDocumentMoniker": "Ecom.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\Ecom.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "RelativeToolTip": "Ecom.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T03:20:17.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\Ecom.Utility\\EmailSender.cs",
+              "RelativeDocumentMoniker": "Ecom.Utility\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\Ecom.Utility\\EmailSender.cs",
+              "RelativeToolTip": "Ecom.Utility\\EmailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T03:29:20.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\Ecom.DataAccess\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "Ecom.DataAccess\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\Ecom.DataAccess\\Repository\\Repository.cs",
+              "RelativeToolTip": "Ecom.DataAccess\\Repository\\Repository.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowEQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T06:47:41.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\Ecom.DataAccess\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Ecom.DataAccess\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\Ecom.DataAccess\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "Ecom.DataAccess\\Repository\\ProductRepository.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAwwB8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T03:06:37.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\Ecom.DataAccess\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Ecom.DataAccess\\Repository\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\Ecom.DataAccess\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "Ecom.DataAccess\\Repository\\CategoryRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAgwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T06:21:19.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\Ecom.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Ecom.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\Ecom.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
+              "RelativeToolTip": "Ecom.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T03:20:13.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\Ecom.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Ecom.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\Ecom.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Ecom.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAAwBkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T05:49:34.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ShoppingCartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\Ecom.DataAccess\\Repository\\ShoppingCartRepository.cs",
+              "RelativeDocumentMoniker": "Ecom.DataAccess\\Repository\\ShoppingCartRepository.cs",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\Ecom.DataAccess\\Repository\\ShoppingCartRepository.cs",
+              "RelativeToolTip": "Ecom.DataAccess\\Repository\\ShoppingCartRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T04:13:08.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\Ecom.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Ecom.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\Ecom.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "RelativeToolTip": "Ecom.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:10:52.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ApplicationUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\Ecom.DataAccess\\Repository\\ApplicationUserRepository.cs",
+              "RelativeDocumentMoniker": "Ecom.DataAccess\\Repository\\ApplicationUserRepository.cs",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\Ecom.DataAccess\\Repository\\ApplicationUserRepository.cs",
+              "RelativeToolTip": "Ecom.DataAccess\\Repository\\ApplicationUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:33:06.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "OrderHeader.cs",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\Ecom.Models\\OrderHeader.cs",
+              "RelativeDocumentMoniker": "Ecom.Models\\OrderHeader.cs",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\Ecom.Models\\OrderHeader.cs",
+              "RelativeToolTip": "Ecom.Models\\OrderHeader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T11:08:47.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ShoppingCartViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\Ecom.Models\\ViewModels\\ShoppingCartViewModel.cs",
+              "RelativeDocumentMoniker": "Ecom.Models\\ViewModels\\ShoppingCartViewModel.cs",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\Ecom.Models\\ViewModels\\ShoppingCartViewModel.cs",
+              "RelativeToolTip": "Ecom.Models\\ViewModels\\ShoppingCartViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T09:58:55.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\Ecom.Models\\ViewModels\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "Ecom.Models\\ViewModels\\ProductViewModel.cs",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\Ecom.Models\\ViewModels\\ProductViewModel.cs",
+              "RelativeToolTip": "Ecom.Models\\ViewModels\\ProductViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T09:58:06.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "EComWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "EComWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T06:54:05.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "EComWebApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "EComWebApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T06:58:40.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "EComWebApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "EComWebApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T05:46:06.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "EComWebApp\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "EComWebApp\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T06:54:09.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "EComWebApp\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "EComWebApp\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T06:01:06.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\Ecom.DataAccess\\Repository\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Ecom.DataAccess\\Repository\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\Ecom.DataAccess\\Repository\\UnitOfWork.cs",
+              "RelativeToolTip": "Ecom.DataAccess\\Repository\\UnitOfWork.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAYwB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:33:16.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IShoppingCartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\Ecom.DataAccess\\Repository\\IRepository\\IShoppingCartRepository.cs",
+              "RelativeDocumentMoniker": "Ecom.DataAccess\\Repository\\IRepository\\IShoppingCartRepository.cs",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\Ecom.DataAccess\\Repository\\IRepository\\IShoppingCartRepository.cs",
+              "RelativeToolTip": "Ecom.DataAccess\\Repository\\IRepository\\IShoppingCartRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T05:23:06.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IApplicationUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\Ecom.DataAccess\\Repository\\IRepository\\IApplicationUserRepository.cs",
+              "RelativeDocumentMoniker": "Ecom.DataAccess\\Repository\\IRepository\\IApplicationUserRepository.cs",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\Ecom.DataAccess\\Repository\\IRepository\\IApplicationUserRepository.cs",
+              "RelativeToolTip": "Ecom.DataAccess\\Repository\\IRepository\\IApplicationUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:33:10.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "OrderDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\Ecom.DataAccess\\Repository\\OrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "Ecom.DataAccess\\Repository\\OrderDetailRepository.cs",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\Ecom.DataAccess\\Repository\\OrderDetailRepository.cs",
+              "RelativeToolTip": "Ecom.DataAccess\\Repository\\OrderDetailRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T06:48:44.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\Ecom.Models\\Category.cs",
+              "RelativeDocumentMoniker": "Ecom.Models\\Category.cs",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\Ecom.Models\\Category.cs",
+              "RelativeToolTip": "Ecom.Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T05:48:52.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "EComWebApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "EComWebApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T05:45:59.202Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

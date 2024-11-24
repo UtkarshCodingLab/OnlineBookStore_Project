@@ -1,0 +1,329 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EComWebApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\EComWebApp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\images\\OrderPlacedSuccessfullyImage.png",
+      "PackagePath": "staticwebassets\\images\\OrderPlacedSuccessfullyImage.png"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\images\\product\\3e18419f-4606-4e6b-a3fa-d1c1104d3a32.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\3e18419f-4606-4e6b-a3fa-d1c1104d3a32.jpg"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\images\\product\\41b4dec2-7556-4c79-80b3-eee5596fc650.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\41b4dec2-7556-4c79-80b3-eee5596fc650.jpg"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\images\\product\\57e29902-1e4c-4689-a778-cc0cfb46040d.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\57e29902-1e4c-4689-a778-cc0cfb46040d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\images\\product\\5b8284b3-7fca-46c8-911f-e858841cc0b7.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\5b8284b3-7fca-46c8-911f-e858841cc0b7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\images\\product\\5d9bf764-610c-4cfb-9345-fb00c8823802.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\5d9bf764-610c-4cfb-9345-fb00c8823802.jpg"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\images\\product\\93014d14-ec30-4ac6-9de9-d46472e5205a.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\93014d14-ec30-4ac6-9de9-d46472e5205a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\images\\product\\94634082-698e-4dd9-bb9f-7c9302414a36.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\94634082-698e-4dd9-bb9f-7c9302414a36.jpg"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\images\\product\\a8ce1ca4-4ba1-4876-9c9a-6952a676de4e.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\a8ce1ca4-4ba1-4876-9c9a-6952a676de4e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\images\\product\\ab77e83f-437e-42cd-9f53-5c2cb70b42ee.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\ab77e83f-437e-42cd-9f53-5c2cb70b42ee.jpg"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\images\\product\\af108b6c-d833-4414-8f74-5896a1d4bdd5.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\af108b6c-d833-4414-8f74-5896a1d4bdd5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\images\\product\\b04699ce-37be-4845-b72d-46cc04fe7f24.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\b04699ce-37be-4845-b72d-46cc04fe7f24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\images\\product\\d3a6ba57-5cf6-4da2-848c-03f474b07bd8.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\d3a6ba57-5cf6-4da2-848c-03f474b07bd8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\images\\product\\ddb70d6a-29b5-4855-a561-cb3a88cec70d.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\ddb70d6a-29b5-4855-a561-cb3a88cec70d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\images\\product\\ecfae1c9-1576-4961-8ae4-3b5b6f74d6df.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\ecfae1c9-1576-4961-8ae4-3b5b6f74d6df.jpg"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\images\\product\\eece9db1-e8a3-4ed9-9d66-2657fedb0b2d.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\eece9db1-e8a3-4ed9-9d66-2657fedb0b2d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom\\EComWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EComWebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EComWebApp.props",
+      "PackagePath": "build\\EComWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EComWebApp.props",
+      "PackagePath": "buildMultiTargeting\\EComWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EComWebApp.props",
+      "PackagePath": "buildTransitive\\EComWebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

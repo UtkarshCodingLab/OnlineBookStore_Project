@@ -1,0 +1,12 @@
+C:\Users\utkarsh.jain\source\repos\ECom\Ecom.Utility\bin\Debug\net8.0\Ecom.Utility.deps.json
+C:\Users\utkarsh.jain\source\repos\ECom\Ecom.Utility\bin\Debug\net8.0\Ecom.Utility.dll
+C:\Users\utkarsh.jain\source\repos\ECom\Ecom.Utility\bin\Debug\net8.0\Ecom.Utility.pdb
+C:\Users\utkarsh.jain\source\repos\ECom\Ecom.Utility\obj\Debug\net8.0\Ecom.Utility.csproj.AssemblyReference.cache
+C:\Users\utkarsh.jain\source\repos\ECom\Ecom.Utility\obj\Debug\net8.0\Ecom.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utkarsh.jain\source\repos\ECom\Ecom.Utility\obj\Debug\net8.0\Ecom.Utility.AssemblyInfoInputs.cache
+C:\Users\utkarsh.jain\source\repos\ECom\Ecom.Utility\obj\Debug\net8.0\Ecom.Utility.AssemblyInfo.cs
+C:\Users\utkarsh.jain\source\repos\ECom\Ecom.Utility\obj\Debug\net8.0\Ecom.Utility.csproj.CoreCompileInputs.cache
+C:\Users\utkarsh.jain\source\repos\ECom\Ecom.Utility\obj\Debug\net8.0\Ecom.Utility.dll
+C:\Users\utkarsh.jain\source\repos\ECom\Ecom.Utility\obj\Debug\net8.0\refint\Ecom.Utility.dll
+C:\Users\utkarsh.jain\source\repos\ECom\Ecom.Utility\obj\Debug\net8.0\Ecom.Utility.pdb
+C:\Users\utkarsh.jain\source\repos\ECom\Ecom.Utility\obj\Debug\net8.0\ref\Ecom.Utility.dll
